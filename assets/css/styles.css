@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font: 16px Arial, sans-serif;
+}
+
+.wrapper {
+  margin: 0 auto;
+  width: 214px;
+}
+
+.header {
+  text-align: center;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+#display {
+  width: 214px;
+  background: black;
+  color: white;
+  border-radius: 6px;
+  margin-bottom: 6px;
+  text-align: right;
+  font-size: 24px;
+  line-height: 50px;
+  padding-right: 6px;
+}
+
+.button {
+  display: inline-block;
+  height: 50px;
+  width: 50px;
+  background: #ddd;
+  border-radius: 6px;
+  text-align: center;
+  margin-bottom: 3px;
+}
+
+.button:hover {
+  background: #ccc;
+}
+
+.wide_button {
+  width: 214px;
+}
+  
+.button, #display {  
+  cursor: default;
+}
