@@ -1,0 +1,2 @@
+# JavaScript calculator
+This on-screen simple calculator is an introductory exercise to JavaScipt section of [The Odin Project](http://www.theodinproject.com), an open-source curriculum for learning web development with Ruby on Rails.
